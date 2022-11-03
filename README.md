@@ -5,29 +5,21 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 
 ## Overview
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![desktop-design](https://user-images.githubusercontent.com/72676373/199729904-a4600d87-f274-4e50-bbef-1cbfb47d90b6.jpg)
 
-
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
 
@@ -38,7 +30,7 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-
+-javascript
 
 ### What I learned
 
@@ -72,7 +64,6 @@ window.addEventListener('resize',() => {
          open_menu.classList.remove('close-menu');
     }
 });
-```
 
 ### Continued development
 
